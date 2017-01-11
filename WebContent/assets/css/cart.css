@@ -1,0 +1,6 @@
+@CHARSET "UTF-8";
+
+
+body{
+background-image: url("${pageContext.request.contextPath}/images/wallpaper4.jpg");	
+}
